@@ -1,2 +1,3 @@
 Hey there! My name is Owen Hailey, and I am a freshman majoring in Data Science at Oregon State University. I love sports, video games, and anime. I think the biggest reason I chose Data Science is that I've always loved using math to understand sports and sports statistics better. With a DS degree, I hope that I can become a company's or even a professional sports team's data analyst. 
+
 Some skills that I am currently developing that will help with my goal of becoming a successful data scientist are communication, teamwork, and leadership skills. I want to develop these skills so that I can set myself apart from others and catch the eye of an employer in a future data science role.  
